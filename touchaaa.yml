@@ -1,0 +1,5 @@
+- hosts: cs
+  tasks:
+  - name: touch aaa
+    shell: echo 123 > aaa
+    

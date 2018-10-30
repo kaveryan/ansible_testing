@@ -1,0 +1,5 @@
+- hosts: cs
+  tasks:
+  - name: cataaa
+    shell: cat aaa
+    
