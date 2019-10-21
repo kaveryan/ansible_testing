@@ -29,7 +29,7 @@ djangorestframework-jwt==1.11.0
 enum34==1.1.6
 Flask==0.12.2
 get==0.0.39
-httpie==0.9.9
+httpie==1.0.3
 httplib2==0.10.3
 idna==2.6
 ipaddr==2.2.0
