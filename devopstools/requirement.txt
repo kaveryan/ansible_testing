@@ -20,7 +20,7 @@ croniter==0.3.20
 cryptography==2.1.4
 cx-Oracle==6.2.1
 decorator==4.2.1
-Django==1.11.7
+Django==1.11.29
 django-filter==1.1.0
 django-permissions==1.2.2
 django-workflows==1.1.1
