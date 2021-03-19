@@ -24,7 +24,7 @@ Django==1.11.7
 django-filter==1.1.0
 django-permissions==1.2.2
 django-workflows==1.1.1
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 enum34==1.1.6
 Flask==0.12.2
